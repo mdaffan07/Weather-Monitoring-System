@@ -113,7 +113,3 @@ Data is displayed **locally** on a 16x2 LCD and streamed to the **Blynk IoT Clou
 ## 📄 License
 
 This project is open-source under the **MIT License**. Feel free to use, modify, and share.
-
----
-
-👉 Would you like me to also **add the Arduino code inside the README** (so it’s a complete copy-paste ready guide), or keep it separate?
